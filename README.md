@@ -18,7 +18,7 @@ A **Multimodal RAG (Retrieval Augmented Generation)** system designed for the It
 ## 📸 Working Streamlit
 The interface allows user to The AI identifies the error, retrieves the exact page from the manual (text + diagram), and summarizes the fix in Italian..
 
-![Streamlit](Screenshot 2025-11-28 105849.jpg)
+![Image](https://github.com/user-attachments/assets/a0992d01-ac47-4140-be33-a5831740116a)
 ---
 
 ## 🏗️ Architecture
