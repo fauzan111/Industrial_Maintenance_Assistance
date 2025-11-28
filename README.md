@@ -15,6 +15,12 @@ A **Multimodal RAG (Retrieval Augmented Generation)** system designed for the It
 - 🔒 **Privacy-First**: Local inference with Ollama - no data leaves your server
 - 🐳 **Docker Support**: Easy deployment with Docker Compose
 
+## 📸 Working Streamlit
+The interface allows user to The AI identifies the error, retrieves the exact page from the manual (text + diagram), and summarizes the fix in Italian..
+
+![Streamlit](Screenshot 2025-11-28 105849.jpg)
+---
+
 ## 🏗️ Architecture
 
 ```
