@@ -1,0 +1,760 @@
+
+
+<!DOCTYPE html>
+<html lang="it" xmlns="http://www.w3.org/1999/xhtml">
+<head><meta name="revisit-after" content="7 days" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="author" content="Hotminds s.r.l. (http://www.hotminds.it)" />
+<meta name="robots" content="index,follow" />
+<meta name="description" content="Fervi Pro smart equipment" />
+<meta name="geo.region" content="IT-MO" />
+<meta name="geo.placename" content="Via del Commercio 81 41058, Vignola (Modena) - Italia" />
+<link rel="canonical" href="https://www.fervi.com/ita/-pr-0.htm" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" /><meta name="description" /><meta name="keywords" /><meta name="author" content="Hotminds" /><link rel="stylesheet" href="/Content/Bootstrap.css" /><link rel="stylesheet" href="/Content/owl.carousel.min.css" /><link rel="stylesheet" href="/Content/jquery.fancybox.css" /><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/10.0.2/css/bootstrap-slider.min.css" /><link rel="stylesheet" href="/Content/owl.theme.default.min.css" /><link rel="stylesheet" href="https://unpkg.com/simplebar@2.3.1/dist/simplebar.css" /><link rel="stylesheet" href="/Content/easy-autocomplete.min.css" type="text/css" /><link rel="stylesheet" href="/Content/MultiSelect.css" /><link rel="stylesheet" href="/Content/style.css?ver=1.4" type="text/css" /><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700,900" />
+	<script type="text/javascript" src="/Scripts/jquery-3.3.1.min.js"></script>
+	<script type="text/javascript" src="/Scripts/MultiSelect.js"></script>
+	<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC3fekox-fmAAK7cOTOxTeyda4KVvCZwGE&callback=Function.prototype" ></script>
+<!-- Google Tag Manager -->
+<script>(function (w, d, s, l, i) {
+        w[l] = w[l] || []; w[l].push({
+            'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+        }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-KQ9X9WN');</script>
+<!-- End Google Tag Manager -->
+<title>
+	Fervi Pro smart equipment
+</title></head>
+<body class=" it" >
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KQ9X9WN"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+	<form method="post" action="./T999_230V.pdf?404%3bhttps%3a%2f%2fwww.fervi.com%3a443%2fmedia%2fmanuali%2fT999_230V.pdf" id="aspnetForm" enctype="multipart/form-data">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTcwODg1MTE2NmRkTCYT3fsYT/ktvNS2GCo9W+qqrwU5mSLU1CP0npkayYY=" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="193A34DB" />
+</div>
+		<div style="display: none;" id="cookie_disable">
+			<p>
+				This website uses "cookies". If you choose to continue using the website, you are
+				authorising the use of cookies according to our cookie policy. For further information
+				or to deny the use of some cookies, please <a href="#" onclick="openPrivacyContatti();">click here</a>.
+			</p>
+			<a href="#" id="cl-cookie">Accept</a>
+		</div>
+		<!---main-menu-->
+		<div id="main-menu">
+			<div class="container-fluid top">
+				<div class="row">
+					<div class="col-sm-7">
+						<div class="d-flex flex-row-reverse">
+							<div class="socials p-2">
+								<div class="social"><a href="https://www.youtube.com/channel/UC3psBmObLHnea3yxl4ITSrQ" target="_blank">
+									<img src="/images/land-you.png" /></a></div>
+								<div class="social"><a href="http://www.facebook.com/FerviProSmartEquipment" target="_blank">
+									<img src="/images/land-fb.png" /></a></div>
+							</div>
+							<div class="p-2 search-box">
+								<span></span>
+								<input name="productsearch" id="productsearch" placeholder='CERCA PRODOTTI' value="" />
+								<a id="pul-ric" onclick="SubmitSearch();" href="#"></a>
+							</div>
+							<div class="p-2 logo">
+								<a id="logo-dsk" href="/">
+									<img src="/images/logo.png" /></a>
+								<a id="logo-mobile" href="/">
+									<img src="/images/logo-fixed.png" /></a>
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-5">
+						<div class="d-flex flex-row">
+							<div id="language">
+								<div class="select-language">
+<div class="flag right"><a href="#" id="italiano" class="language-selected"><img src="/images/flag-ITA.png"  /></a></div>
+<div class="menu-language ">
+<div class="menu-language-close "></div>
+<div class="flag left"><a href="#" id="open-menu" ><img src="/images/arrow-language.png"   /></a></div>
+<div class="flag left"><a href="/eng/index.htm" id="english"> <img src="/images/flag-eng.png"  /></a></div>
+<div class="flag left"><a href="/esp/index.htm" id="espanol"><img src="/images/flag-esp.png"  /></a></div>
+<div class="flag left"><a href="/deu/index.htm" id="deutsch"> <img src="/images/flag-deu.png"  /></a></div>
+<div class="flag left"><a href="/fra/index.htm" id="french"> <img src="/images/flag-fra.png"  /></a></div>
+</div>
+</div>
+
+
+							</div>
+							<div id="favorite-box" style="display:none">
+
+								<a href="/ITA/favorite.htm" class="dropdown-toggle">
+									 <div id="preferiti">Preferiti </div><div id="num-preferiti">0</div>
+								</a>
+								<ul id="favorite_list" class="dropdown-menu">
+									
+								</ul>
+
+							</div>
+							<div id="login-box"><a href="https://oe.fervi.com" target="_blank">Login</a></div>
+						</div>
+					</div>
+				</div>
+
+			</div>
+			<div class="container-fluid menu ">
+				<div id="row-affix">
+					<div class="col-md-3 ">
+						<div class="logo-affix">
+							<a href="/"></a>
+						</div>
+					</div>
+					<div id="navbar-col">
+						<nav class="navbar navbar-expand-lg navbar-light bg-light">
+							<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+								<span class="navbar-toggler-icon"></span>
+							</button>
+							<div class="collapse navbar-collapse" id="navbarSupportedContent">
+								<ul class="navbar-nav mr-auto">
+									<li Class="nav-item dropdown">
+<a Class="nav-link dropdown-toggle  " href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="True" aria-expanded="False">PRODOTTI</a>
+<div id ="dropdown-solution" Class="dropdown-menu" aria-labelledby="navbarDropdown">
+<ul>
+<li Class="dropdown-item cate30613" href="#">
+<div class="menu-cat-item" style="background:#e30613;" ><a href="/ita/macchine-utensili-e-accessori-ca-1.htm" title="Macchine utensili e accessori">Macchine utensili e accessori</a></div>
+<div class="dropdown-menu-second-level">
+<a style="background:url('/cgi-bin/images/icone/macchine_per_lavorazioni_meccaniche.png') no-repeat 7px top;" class="dropdown-item" title="Macchine lavorazioni meccaniche" href="/ita/macchine-utensili-e-accessori/macchine-lavorazioni-meccaniche-su-1.htm">Macchine lavorazioni meccaniche</a>
+<a style="background:url('/cgi-bin/images/icone/lavorazioni-legno.png') no-repeat 7px top;" class="dropdown-item" title="Macchine lavorazione legno" href="/ita/macchine-utensili-e-accessori/macchine-lavorazione-legno-su-2.htm">Macchine lavorazione legno</a>
+<a style="background:url('/cgi-bin/images/icone/2022/_0051_torni.png') no-repeat 7px top;" class="dropdown-item" title="Torni" href="/ita/macchine-utensili-e-accessori/torni-su-68.htm">Torni</a>
+<a style="background:url('/cgi-bin/images/icone/2022/_0050_fresatrici.png') no-repeat 7px top;" class="dropdown-item" title="Fresatrici" href="/ita/macchine-utensili-e-accessori/fresatrici-su-69.htm">Fresatrici</a>
+<a style="background:url('/cgi-bin/images/icone/torni_trapani_e_frese.png') no-repeat 7px top;" class="dropdown-item" title="Trapani" href="/ita/macchine-utensili-e-accessori/trapani-su-70.htm">Trapani</a>
+<a style="background:url('/cgi-bin/images/icone/2022/_0047_lavorazione-lamiera-_ferri-e-tubi.png') no-repeat 7px top;" class="dropdown-item" title="Lavorazione lamiera, ferri e tubi" href="/ita/macchine-utensili-e-accessori/lavorazione-lamiera-ferri-e-tubi-su-76.htm">Lavorazione lamiera, ferri e tubi</a>
+<a style="background:url('/cgi-bin/images/icone/2022/_0045_morse-a-macchina.png') no-repeat 7px top;" class="dropdown-item" title="Morse a macchina" href="/ita/macchine-utensili-e-accessori/morse-a-macchina-su-75.htm">Morse a macchina</a>
+<a style="background:url('/cgi-bin/images/icone/2022/_0044_tavole-e-divisori.png') no-repeat 7px top;" class="dropdown-item" title="Tavole e divisori" href="/ita/macchine-utensili-e-accessori/tavole-e-divisori-su-73.htm">Tavole e divisori</a>
+<a style="background:url('/cgi-bin/images/icone/2022/_0043_mandrini.png') no-repeat 7px top;" class="dropdown-item" title="Mandrini" href="/ita/macchine-utensili-e-accessori/mandrini-su-71.htm">Mandrini</a>
+<a style="background:url('/cgi-bin/images/icone/2022/_0042_contropunte-e-torrette.png') no-repeat 7px top;" class="dropdown-item" title="Contropunte e Torrette" href="/ita/macchine-utensili-e-accessori/contropunte-e-torrette-su-72.htm">Contropunte e Torrette</a>
+<a style="background:url('/cgi-bin/images/icone/2022/_0041_accessori-bordo-macchina.png') no-repeat 7px top;" class="dropdown-item" title="Accessori bordo macchina" href="/ita/macchine-utensili-e-accessori/accessori-bordo-macchina-su-74.htm">Accessori bordo macchina</a>
+</div>
+</li>
+<li Class="dropdown-item cat951b81" href="#">
+<div class="menu-cat-item" style="background:#951b81;" ><a href="/ita/attrezzature-da-officina-ca-7.htm" title="Attrezzature da officina">Attrezzature da officina</a></div>
+<div class="dropdown-menu-second-level">
+<a style="background:url('/cgi-bin/images/icone/2022/_0026_arredamento-da-officina.png') no-repeat 7px top;" class="dropdown-item" title="Arredamento da officina" href="/ita/attrezzature-da-officina/arredamento-da-officina-su-81.htm">Arredamento da officina</a>
+<a style="background:url('/cgi-bin/images/icone/2022/_0025_morse-da-banco-e-incudini.png') no-repeat 7px top;" class="dropdown-item" title="Morse da banco e incudini" href="/ita/attrezzature-da-officina/morse-da-banco-e-incudini-su-78.htm">Morse da banco e incudini</a>
+<a style="background:url('/cgi-bin/images/icone/2022/_0024_macchine-per-trattamenti-e-finiture.png') no-repeat 7px top;" class="dropdown-item" title="Macchine per trattamenti e finiture" href="/ita/attrezzature-da-officina/macchine-per-trattamenti-e-finiture-su-77.htm">Macchine per trattamenti e finiture</a>
+<a style="background:url('/cgi-bin/images/icone/2022/_0023_presse-e-divaricatori.png') no-repeat 7px top;" class="dropdown-item" title="Presse e divaricatori" href="/ita/attrezzature-da-officina/presse-e-divaricatori-su-82.htm">Presse e divaricatori</a>
+<a style="background:url('/cgi-bin/images/icone/2022/_0022_officina-auto-e-moto.png') no-repeat 7px top;" class="dropdown-item" title="Officina auto e moto" href="/ita/attrezzature-da-officina/officina-auto-e-moto-su-79.htm">Officina auto e moto</a>
+<a style="background:url('/cgi-bin/images/icone/2022/_0021_sollevamento-e-movimentazione.png') no-repeat 7px top;" class="dropdown-item" title="Sollevamento e movimentazione" href="/ita/attrezzature-da-officina/sollevamento-e-movimentazione-su-80.htm">Sollevamento e movimentazione</a>
+</div>
+</li>
+<li Class="dropdown-item catea5b0c" href="#">
+<div class="menu-cat-item" style="background:#ea5b0c;" ><a href="/ita/utensili-da-taglio-ca-2.htm" title="Utensili da taglio">Utensili da taglio</a></div>
+<div class="dropdown-menu-second-level">
+<a style="background:url('/cgi-bin/images/icone/inserti-brasati-barrette.png') no-repeat 7px top;" class="dropdown-item" title="Inserti, brasati e barrette" href="/ita/utensili-da-taglio/inserti-brasati-e-barrette-su-15.htm">Inserti, brasati e barrette</a>
+<a style="background:url('/cgi-bin/images/icone/maschi-filiere.png') no-repeat 7px top;" class="dropdown-item" title="Maschi e filiere" href="/ita/utensili-da-taglio/maschi-e-filiere-su-17.htm">Maschi e filiere</a>
+<a style="background:url('/cgi-bin/images/icone/riparazione_filetti.png') no-repeat 7px top;" class="dropdown-item" title="Riparazione filetti" href="/ita/utensili-da-taglio/riparazione-filetti-su-62.htm">Riparazione filetti</a>
+<a style="background:url('/cgi-bin/images/icone/lame_a_nastro_e_a_disco.png') no-repeat 7px top;" class="dropdown-item" title="Lame a nastro e a disco" href="/ita/utensili-da-taglio/lame-a-nastro-e-a-disco-su-60.htm">Lame a nastro e a disco</a>
+<a style="background:url('/cgi-bin/images/icone/2022/_0040_utensili-per-tornitura-e-fresatura.png') no-repeat 7px top;" class="dropdown-item" title="Utensili per tornitura e fresatura" href="/ita/utensili-da-taglio/utensili-per-tornitura-e-fresatura-su-88.htm">Utensili per tornitura e fresatura</a>
+<a style="background:url('/cgi-bin/images/icone/2022/_0038_punte-e-frese-da-metallo.png') no-repeat 7px top;" class="dropdown-item" title="Punte e frese da metallo" href="/ita/utensili-da-taglio/punte-e-frese-da-metallo-su-89.htm">Punte e frese da metallo</a>
+<a style="background:url('/cgi-bin/images/icone/2022/_0037_punte-e-frese-da-edilizia-e-legno.png') no-repeat 7px top;" class="dropdown-item" title="Punte e frese da edilizia e legno" href="/ita/utensili-da-taglio/punte-e-frese-da-edilizia-e-legno-su-90.htm">Punte e frese da edilizia e legno</a>
+</div>
+</li>
+<li Class="dropdown-item catfbba00" href="#">
+<div class="menu-cat-item" style="background:#fbba00;" ><a href="/ita/strumenti-di-misura-ca-3.htm" title="Strumenti di misura">Strumenti di misura</a></div>
+<div class="dropdown-menu-second-level">
+<a style="background:url('/cgi-bin/images/icone/calibri-truschini-goniometri.png') no-repeat 7px top;" class="dropdown-item" title="Calibri, Truschini e Righe" href="/ita/strumenti-di-misura/calibri-truschini-e-righe-su-7.htm">Calibri, Truschini e Righe</a>
+<a style="background:url('/cgi-bin/images/icone/comparatori.png') no-repeat 7px top;" class="dropdown-item" title="Comparatori" href="/ita/strumenti-di-misura/comparatori-su-23.htm">Comparatori</a>
+<a style="background:url('/cgi-bin/images/icone/micrometri.png') no-repeat 7px top;" class="dropdown-item" title="Micrometri" href="/ita/strumenti-di-misura/micrometri-su-8.htm">Micrometri</a>
+<a style="background:url('/cgi-bin/images/icone/blocchetti-anelli-tamponi.png') no-repeat 7px top;" class="dropdown-item" title="Blocchetti, Anelli e Tamponi" href="/ita/strumenti-di-misura/blocchetti-anelli-e-tamponi-su-24.htm">Blocchetti, Anelli e Tamponi</a>
+<a style="background:url('/cgi-bin/images/icone/accessori-misurazione.png') no-repeat 7px top;" class="dropdown-item" title="Accessori per la misurazione" href="/ita/strumenti-di-misura/accessori-per-la-misurazione-su-25.htm">Accessori per la misurazione</a>
+<a style="background:url('/cgi-bin/images/icone/2022/_0002_flessometri-livelle-e-goniometri.png') no-repeat 7px top;" class="dropdown-item" title="Flessometri, Livelle e Goniometri" href="/ita/strumenti-di-misura/flessometri-livelle-e-goniometri-su-26.htm">Flessometri, Livelle e Goniometri</a>
+<a style="background:url('/cgi-bin/images/icone/misuratori-analogici-digitali.png') no-repeat 7px top;" class="dropdown-item" title="Misuratori analogici e digitali" href="/ita/strumenti-di-misura/misuratori-analogici-e-digitali-su-28.htm">Misuratori analogici e digitali</a>
+<a style="background:url('/cgi-bin/images/icone/bilance.png') no-repeat 7px top;" class="dropdown-item" title="Bilance" href="/ita/strumenti-di-misura/bilance-su-29.htm">Bilance</a>
+</div>
+</li>
+<li Class="dropdown-item cat00983a" href="#">
+<div class="menu-cat-item" style="background:#00983a;" ><a href="/ita/utensileria-ca-4.htm" title="Utensileria">Utensileria</a></div>
+<div class="dropdown-menu-second-level">
+<a style="background:url('/cgi-bin/images/icone/chiavi.png') no-repeat 7px top;" class="dropdown-item" title="Chiavi di manovra" href="/ita/utensileria/chiavi-di-manovra-su-9.htm">Chiavi di manovra</a>
+<a style="background:url('/cgi-bin/images/icone/pinze-martelli.png') no-repeat 7px top;" class="dropdown-item" title="Pinze, martelli, lime, leve e scalpelli" href="/ita/utensileria/pinze-martelli-lime-leve-e-scalpelli-su-30.htm">Pinze, martelli, lime, leve e scalpelli</a>
+<a style="background:url('/cgi-bin/images/icone/utensili-taglio.png') no-repeat 7px top;" class="dropdown-item" title="Cutter, sbavatori e forbici" href="/ita/utensileria/cutter-sbavatori-e-forbici-su-33.htm">Cutter, sbavatori e forbici</a>
+<a style="background:url('/cgi-bin/images/icone/assortimenti_e_fissaggi.png') no-repeat 7px top;" class="dropdown-item" title="Assortimenti e fissaggio" href="/ita/utensileria/assortimenti-e-fissaggio-su-63.htm">Assortimenti e fissaggio</a>
+<a style="background:url('/cgi-bin/images/icone/2022/_0014_edilizia-ed-imballaggio.png') no-repeat 7px top;" class="dropdown-item" title="Edilizia ed imballaggio" href="/ita/utensileria/edilizia-ed-imballaggio-su-83.htm">Edilizia ed imballaggio</a>
+<a style="background:url('/cgi-bin/images/icone/2022/_0013_serie-_di-utensili.png') no-repeat 7px top;" class="dropdown-item" title="Serie di utensili" href="/ita/utensileria/serie-di-utensili-su-84.htm">Serie di utensili</a>
+<a style="background:url('/cgi-bin/images/icone/chiavi-bussola.png') no-repeat 7px top;" class="dropdown-item" title="Chiavi a bussola ed estrattori" href="/ita/utensileria/chiavi-a-bussola-ed-estrattori-su-41.htm">Chiavi a bussola ed estrattori</a>
+<a style="background:url('/cgi-bin/images/icone/giraviti-rivettatrici.png') no-repeat 7px top;" class="dropdown-item" title="Giraviti e rivettatrici" href="/ita/utensileria/giraviti-e-rivettatrici-su-42.htm">Giraviti e rivettatrici</a>
+</div>
+</li>
+<li Class="dropdown-item cat95c11f" href="#">
+<div class="menu-cat-item" style="background:#95c11f;" ><a href="/ita/general-tools-ca-8.htm" title="General tools">General tools</a></div>
+<div class="dropdown-menu-second-level">
+<a style="background:url('/cgi-bin/images/icone/pneumatica.png') no-repeat 7px top;" class="dropdown-item" title="Pneumatica" href="/ita/general-tools/pneumatica-su-86.htm">Pneumatica</a>
+<a style="background:url('/cgi-bin/images/icone/saldatori-sverniciatori.png') no-repeat 7px top;" class="dropdown-item" title="Saldatori, sverniciatori e pistole termocollanti" href="/ita/general-tools/saldatori-sverniciatori-e-pistole-termocollanti-su-87.htm">Saldatori, sverniciatori e pistole termocollanti</a>
+<a style="background:url('/cgi-bin/images/icone/accessori-idrocarburi.png') no-repeat 7px top;" class="dropdown-item" title="Attrezzatura per liquidi e fluidi" href="/ita/general-tools/attrezzatura-per-liquidi-e-fluidi-su-53.htm">Attrezzatura per liquidi e fluidi</a>
+<a style="background:url('/cgi-bin/images/icone/illuminazione.png') no-repeat 7px top;" class="dropdown-item" title="Illuminazione e riscaldatori" href="/ita/general-tools/illuminazione-e-riscaldatori-su-35.htm">Illuminazione e riscaldatori</a>
+<a style="background:url('/cgi-bin/images/icone/elettroutensili.png') no-repeat 7px top;" class="dropdown-item" title="Elettroutensili" href="/ita/general-tools/elettroutensili-su-92.htm">Elettroutensili</a>
+</div>
+</li>
+<li Class="dropdown-item cat005ca9" href="#">
+<div class="menu-cat-item" style="background:#005ca9;" ><a href="/ita/abrasivi-ca-6.htm" title="Abrasivi">Abrasivi</a></div>
+<div class="dropdown-menu-second-level">
+<a style="background:url('/cgi-bin/images/icone/dischi-lamellari.png') no-repeat 7px top;" class="dropdown-item" title="Dischi lamellari" href="/ita/abrasivi/dischi-lamellari-su-43.htm">Dischi lamellari</a>
+<a style="background:url('/cgi-bin/images/icone/mole-e-dischi-da-taglio.png') no-repeat 7px top;" class="dropdown-item" title="Mole e dischi da taglio" href="/ita/abrasivi/mole-e-dischi-da-taglio-su-44.htm">Mole e dischi da taglio</a>
+<a style="background:url('/cgi-bin/images/icone/2022/_0029_finitura-e-lucidatura.png') no-repeat 7px top;" class="dropdown-item" title="Finitura e lucidatura" href="/ita/abrasivi/finitura-e-lucidatura-su-45.htm">Finitura e lucidatura</a>
+<a style="background:url('/cgi-bin/images/icone/tela-abrasiva.png') no-repeat 7px top;" class="dropdown-item" title="Dischi e nastri abrasivi" href="/ita/abrasivi/dischi-e-nastri-abrasivi-su-46.htm">Dischi e nastri abrasivi</a>
+<a style="background:url('/cgi-bin/images/icone/ruote-abrasive.png') no-repeat 7px top;" class="dropdown-item" title="Ruote abrasive" href="/ita/abrasivi/ruote-abrasive-su-54.htm">Ruote abrasive</a>
+<a style="background:url('/cgi-bin/images/icone/2022/_0028_spazzole-a-filo.png') no-repeat 7px top;" class="dropdown-item" title="Spazzole a filo" href="/ita/abrasivi/spazzole-a-filo-su-55.htm">Spazzole a filo</a>
+<a style="background:url('/cgi-bin/images/icone/2022/_0030_pulitura.png') no-repeat 7px top;" class="dropdown-item" title="Pulitura" href="/ita/abrasivi/pulitura-su-85.htm">Pulitura</a>
+</div>
+</li>
+
+</ul>
+</li>
+<li Class="nav-item offerte"><a Class="nav-link " href="/ita/offers.htm">Offerte</a></li>
+<li Class="nav-item novita"><a Class="nav-link " href="/ita/new_products.htm">Novità</a></li>
+<li Class="nav-item dropdown">
+<a Class="nav-link dropdown-toggle  " href="#" id="scrolling20" role="button" data-toggle="dropdown" aria-haspopup="True" aria-expanded="False">Chi siamo</a>
+<div  class="dropdown-menu simple" aria-labelledby="scrolling20">
+<ul>
+<li Class="nav-item"><a Class="nav-link " href="/ita/l'azienda-ps-79.htm">L'azienda</a></li>
+<li Class="nav-item"><a Class="nav-link " href="/ita/fervi-group-ps-120.htm">Fervi Group</a></li>
+<li Class="nav-item"><a Class="nav-link " href="/ita/sponsorizzazioni-sp-60.htm">Sponsorizzazioni</a></li>
+<li Class="nav-item"><a Class="nav-link " href="/ita/rassegna-stampa-pa-59.htm">Rassegna Stampa</a></li>
+</ul>
+</div>
+</li>
+<li Class="nav-item contatti"><a Class="nav-link " href="/ita/contatti-23.htm">Contatti</a></li>
+<li Class="nav-item puntivendita"><a Class="nav-link " href="/ita/punti-vendita-42.htm">Dove acquistare</a></li>
+<li Class="nav-item dropdown">
+<a Class="nav-link dropdown-toggle  " href="#" id="scrolling132" role="button" data-toggle="dropdown" aria-haspopup="True" aria-expanded="False">ASSISTENZA</a>
+<div  class="dropdown-menu simple" aria-labelledby="scrolling132">
+<ul>
+<li Class="nav-item"><a Class="nav-link " href="/ita/assistenza-tecnica-ps-96.htm">ASSISTENZA TECNICA</a></li>
+<li Class="nav-item"><a Class="nav-link " href="/ita/estensione-garanzia-ps-143.htm">ESTENSIONE GARANZIA</a></li>
+<li Class="nav-item"><a Class="nav-link " href="/ita/faq-pa-22.htm">FAQ</a></li>
+</ul>
+</div>
+</li>
+<li Class="nav-item investorscrolling"><a Class="nav-link " href="/ita/investors-is-64.htm">Investors</a></li>
+<li Class="nav-item"><a Class="nav-link " href="/ita/benvenuto-in-fervi-plus-fph-102.htm"><img src="/images/Logo_FP.png" alt="Fervi Plus" /></a></li>
+<li class="nav-item login"><a target="_blank" href="http://31.24.139.167:85/#/login" class="nav-link">Login</a></li>
+
+<li class="nav-item favorite"><div class="social ml-a"><a href="http://www.facebook.com/FerviProSmartEquipment" target="_blank"><img src="/images/land-fb.png" /></a></div><div class="social"><a href="https://www.youtube.com/channel/UC3psBmObLHnea3yxl4ITSrQ" target="_blank"><img src="/images/land-you.png" /></a></div></li>
+
+								</ul>
+							</div>
+						</nav>
+					</div>
+				</div>
+
+			</div>
+		</div>
+		<!--end-main-menu-->
+		
+		
+
+		<div Class="breadcrumble">
+<div class="container">
+<div class="row">
+<div class="col-sm-12">
+</div>
+</div>
+</div>
+</div>
+
+
+		
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <h2 class="notfound">Page not found</h2>
+            </div>
+        </div>
+            
+        
+    </div>
+
+
+		<div class="footer">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-3">
+<img id="footer-logo" src="/images/logo-footer.png"/>
+<span class="txtpvendita">Trova il rivenditore pi&ugrave; vicino a te</span>
+<div class="serachdiv">
+<input id="address2" type="text"   name="address2">
+<input id="type-form" type="hidden"   value="0" name="type-form">
+<input id="invia" value="Cerca" type="button" onclick="SearchRivFooter();">
+</div>
+
+<div class="sez-land">
+<div style="width: 200px; display:inline-block"><a href="https://a0d7g9.emailsp.com/frontend/forms/Subscription.aspx?idList=1&idForm=24&guid=aafa5375-bcf1-4e06-965a-e3a98b626156" id="iscriviti"><img src="/images/ico-iscriviti.png" /></a></div>
+</div>
+<div class="sez-land">
+<div class="social"><a href="http://www.facebook.com/FerviProSmartEquipment" target="_blank"><img src="/images/land-fb.png" /></a></div>
+<div class="social"><a href="https://www.youtube.com/channel/UC3psBmObLHnea3yxl4ITSrQ" target="_blank"><img src="/images/land-you.png" /></a></div>
+<div class="social"><a href="https://www.instagram.com/fervi_tools/" target="_blank"><img src="/images/land-ins.png" /></a></div>
+<div style="width: 45px; display:inline-block"><a href="https://www.confindustriaemilia.it/" target="_blank"><img src="/images/ico-confindustria.png" /></a></div>
+</div>
+</div>
+<div class="col-sm-3">
+<span><a href="/ita/chi-siamo-ps-20.htm">il mondo fervi</a></span>
+<ul class="subnavpage" >
+<li>
+<a href="/ita/-ps-1159.htm#p1"><p style="display: none;">Campagna rottamazione Fervi</p></a>
+</li>
+<li>
+<a href="/ita/l'azienda-ps-79.htm#p2">L'azienda</a>
+</li>
+<li>
+<a href="/ita/fervi-group-ps-120.htm#p3">Fervi Group</a>
+</li>
+<li>
+<a href="/ita/sponsorizzazioni-sp-60.htm#p4">Sponsorizzazioni</a>
+</li>
+<li>
+<a href="/ita/rassegna-stampa-pa-59.htm#p5">Rassegna Stampa</a>
+</li>
+<li>
+<a href="/ita/investors-is-64.htm">Investors</a>
+</li>
+<a href="/ita/soluzioni-espositive-pa-53.htm">SOLUZIONI ESPOSITIVE</a>
+<li><a href="http://31.24.139.167:85/#/login" target="_blank">Login</a></li></ul>
+</div>
+<div class="col-sm-3">
+<span><a href="/ita/-pr-76.htm">PRODOTTI</a></span>
+<ul class="subnavpage" >
+<li>
+<a href="/ita/macchine-utensili-e-accessori-ca-1.htm">Macchine utensili e accessori</a>
+</li>
+<li>
+<a href="/ita/attrezzature-da-officina-ca-7.htm">Attrezzature da officina</a>
+</li>
+<li>
+<a href="/ita/utensili-da-taglio-ca-2.htm">Utensili da taglio</a>
+</li>
+<li>
+<a href="/ita/strumenti-di-misura-ca-3.htm">Strumenti di misura</a>
+</li>
+<li>
+<a href="/ita/utensileria-ca-4.htm">Utensileria</a>
+</li>
+<li>
+<a href="/ita/general-tools-ca-8.htm">General tools</a>
+</li>
+<li>
+<a href="/ita/abrasivi-ca-6.htm">Abrasivi</a>
+</li>
+</ul>
+</div>
+<div class="col-sm-3">
+<span><a href="/ita/faq-pa-22.htm">FAQ</a></span>
+<ul class="subnavpage" >
+<li>
+<a href="/ita/faq-37.htm">FAQ di carattere gestionale e organizzativo</a>
+</li>
+<li>
+<a href="/ita/faq-38.htm">FAQ di carattere generale sui prodotti</a>
+</li>
+<li>
+<a href="/ita/faq-39.htm">FAQ con contenuto tecnico</a>
+</li>
+</ul>
+</div>
+
+
+
+				</div>
+			</div>
+
+		</div>
+		<div class="disclaimer">
+
+			<a href="#" onclick="openPrivacyContatti();">Privacy</a> | <a href="#" onclick="openCondVendita();">
+				Condizioni di Vendita</a> | <a href=/ita/sitemap.htm style="display: none">Mappa del sito</a>
+			<br />
+			<b>FERVI SpA</b> - Via del Commercio 81 - 41058, Vignola (Modena) - Cap.Soc. € 2.539.250 i.v. - Reg. Imprese Mo (Italia), C.F. e P.I. 00782180368 • REA Mo 184870.
+
+		</div>
+		<a id="back-to-top" href="#" class="btn btn-primary btn-lg back-to-top" role="button" title="Click to return on the top page" data-toggle="tooltip" data-placement="left"></a>
+	</form>
+
+	<script type="text/javascript" src='/include/jquery.cookie.js'></script>
+	<script type="text/javascript" src="/Scripts/jquery.fancybox.js"></script>
+	<script type="text/javascript" src="/Scripts/bootstrap.js"></script>
+
+	<script src="/Scripts/animatescroll.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/10.0.2/bootstrap-slider.js"></script>
+
+	<script src="https://unpkg.com/simplebar@2.3.1/dist/simplebar.js"></script>
+	<script type="text/javascript" src="/Scripts/jquery.elevatezoom.js"></script>
+	<script type="text/javascript" src="/Scripts/jquery.easy-autocomplete.js"></script>
+	<script src="/Scripts/owl.carousel.min.js"></script>
+	<script type="text/javascript" src="/Scripts/common.js"></script>
+
+	
+	<script type="text/javascript">
+		var options = {
+
+			url: function (phrase)
+			{
+				return "/ajax.aspx";
+			},
+
+			getValue: function (element)
+			{
+				return element.title;
+			},
+			list: {
+				onClickEvent: function ()
+				{
+					var response = $("#productsearch").val().split("-");
+
+					window.location.href = "/ITA/search.htm?s=" + $("#productsearch").val();
+						}
+				},
+				ajaxSettings: {
+					dataType: "json",
+					method: "POST",
+					data: {
+						dataType: "json",
+						type: "search_autocomplete"
+					}
+
+				},
+
+				preparePostData: function (data)
+				{
+
+					data.phrase = $("#productsearch").val();
+					return data;
+				},
+
+				requestDelay: 400
+			};
+
+
+
+					$("#productsearch").easyAutocomplete(options);
+					//}
+
+					function openPrivacyContatti()
+					{
+						var sPage = "/ITA/privacy/";
+			var sName = "Privacy";
+			var sParm = "location=no,menubar=no,resizable=no,scrollbars=yes,status=no,toolbar=no,width=700,height=550";
+			var wnd;
+			wnd = window.open(sPage, sName, sParm);
+			wnd.focus();
+		 }
+
+		 function openCondVendita()
+		 {
+			var sPage = "/ITA/condizioni-vendita/";
+			var sName = "Privacy";
+			var sParm = "location=no,menubar=no,resizable=no,scrollbars=yes,status=no,toolbar=no,width=700,height=550";
+			var wnd;
+			wnd = window.open(sPage, sName, sParm);
+			wnd.focus();
+		}
+
+
+		function SubmitSearch()
+		{
+
+			if ($('#productsearch').val().length > 0)
+			{
+                window.location.href = "/ITA/search.htm?s=" + encodeURI($('#productsearch').val());
+			} else
+			{
+				window.location.href = "/ITA/search.htm?s=NULL";
+			}
+			return false;
+		}
+
+		function addFavorite(id)
+		{
+
+			if (typeof $.cookie('favorite') === 'undefined')
+			{
+				$.cookie('favorite', id, { expires: 15, path: '/' });
+			} else
+			{
+				var favstring = '';
+				favstring = $.cookie('favorite') + '|' + id
+				$.cookie('favorite', favstring, { expires: 15, path: '/' });
+			}
+
+
+			$('#f' + id).html('<a  onclick="removeFavorite(' + id + '); return false;" href="#" >Rimuovi dai preferiti</a>');
+
+		refreshesFavorite();
+
+		return false;
+	}
+	function addFavoritewishlist(id)
+	{
+		if (typeof $.cookie('favorite') === 'undefined')
+		{
+			$.cookie('favorite', id, { expires: 15, path: '/' });
+		} else
+		{
+			var favstring = '';
+			favstring = $.cookie('favorite') + '|' + id
+			$.cookie('favorite', favstring, { expires: 15, path: '/' });
+		}
+		$('#f' + id).attr('onclick', 'removeFavoritewishlist(' + id + '); return false;');
+		$('#f' + id).html('Rimuovi dai preferiti');
+
+
+		refreshesFavorite();
+
+		return false;
+	}
+
+
+
+	function addFavoriteDetail(id)
+	{
+
+		if (typeof $.cookie('favorite') === 'undefined')
+		{
+			$.cookie('favorite', id, { expires: 15, path: '/' });
+		} else
+		{
+			var favstring = '';
+			favstring = $.cookie('favorite') + '|' + id
+			$.cookie('favorite', favstring, { expires: 15, path: '/' });
+		}
+
+
+		$('#f' + id).html('<a  onclick="removeFavoriteDetail(' + id + '); return false;" href="#" >Rimuovi dai preferiti</a>');
+
+		refreshesFavorite();
+
+		return false;
+	}
+
+
+	function SearchRiv()
+	{
+		$("#aspnetForm").attr("action", "/ITA/punti-vendita-42.htm");
+				$("#type-form").attr("value", "0");
+				$("#aspnetForm").submit();
+			 }
+
+			 function SearchRivFooter()
+			 {
+
+				$("#aspnetForm").attr("action", "/ITA/punti-vendita-42.htm");
+			$("#type-form").attr("value", "1");
+			$("#aspnetForm").submit();
+		 }
+		 function SearchComeRag()
+		 {
+			$("#aspnetForm").attr("action", "/ITA/contacts-23.htm?type=map");
+				$("#aspnetForm").submit();
+			 }
+			 function refreshesFavorite()
+			 {
+				$.ajax({
+					url: "/ajax.aspx", data: "&type=refreshesFavorite",
+					success: function (html)
+					{
+                        $("#favorite-box a.dropdown-toggle").html(html);
+                       
+                    }
+
+                     
+                });
+                 $.ajax({
+                     url: "/ajax.aspx", data: "&type=refreshesFavoritemobile",
+                     success: function (html) {
+                         $(".nav-item.favorite a.nav-link").html(html);
+
+                     }
+
+
+                 });
+                 
+				$.ajax({
+					url: "/ajax.aspx", data: "&type=refreshesFavoriteelenco&lang=ITA",
+			success: function (html)
+			{
+
+				$("#favorite-box .dropdown-menu").html(html);
+			}
+
+		});
+	}
+	function removeFavorite(id)
+	{
+
+
+		var res = $.cookie('favorite').split('|');
+
+		var favstring = '';
+
+
+		for (i = 0; i < res.length; i++)
+		{
+			if (res[i] != id)
+			{
+				if (favstring == '')
+				{
+					favstring = res[i];
+				} else
+				{
+					favstring = favstring + '|' + res[i];
+				}
+
+			}
+
+		}
+
+		$.cookie('favorite', favstring, { expires: 15, path: '/' });
+
+
+		$('#f' + id).html('<a  onclick="addFavorite(' + id + '); return false;" href="#">aggiungi alla wishlist</a>');
+ 
+
+
+	refreshesFavorite();
+
+	return false;
+}
+
+function removeFavoritewishlist(id)
+{
+	var res = $.cookie('favorite').split('|');
+	var favstring = '';
+	for (i = 0; i < res.length; i++)
+	{
+		if (res[i] != id)
+		{
+			if (favstring == '')
+			{
+				favstring = res[i];
+			} else
+			{
+				favstring = favstring + '|' + res[i];
+			}
+
+		}
+
+	}
+	$.cookie('favorite', favstring, { expires: 15, path: '/' });
+
+
+	$('#f' + id).attr('onclick', 'addFavoritewishlist(' + id + '); return false;');
+	$('#f' + id).html('aggiungi alla wishlist');
+		refreshesFavorite();
+		return false;
+	}
+
+	function removeFavoriteDetail(id)
+	{
+
+
+		var res = $.cookie('favorite').split('|');
+
+		var favstring = '';
+
+
+		for (i = 0; i < res.length; i++)
+		{
+			if (res[i] != id)
+			{
+				if (favstring == '')
+				{
+					favstring = res[i];
+				} else
+				{
+					favstring = favstring + '|' + res[i];
+				}
+
+			}
+
+		}
+		$.cookie('favorite', favstring, { expires: 15, path: '/' });
+
+
+		$('#f' + id).html('<a  onclick="addFavoriteDetail(' + id + '); return false;" href="#" >aggiungi alla wishlist</a>');
+
+
+		refreshesFavorite();
+
+		return false;
+	}
+        $(document).ready(function () {
+            $("#iscriviti").fancybox({
+                'autoScale': true,
+                'transitionIn': 'none',
+                'transitionOut': 'none',
+                'type': 'iframe'
+            });
+        });
+
+
+    </script>
+
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-32335332-1']);
+		_gaq.push(['_trackPageview']);
+		(function ()
+		{
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		goog_snippet_vars = function ()
+		{
+			var w = window;
+			w.google_conversion_id = 12345678;
+			w.google_conversion_label = "abcDeFGHIJklmN0PQ";
+			w.google_conversion_value = 13.00;
+			w.google_conversion_currency = "USD";
+			w.google_remarketing_only = false;
+		}
+		// DO NOT CHANGE THE CODE BELOW.
+		goog_report_conversion = function (url)
+		{
+			goog_snippet_vars();
+			window.google_conversion_format = "3";
+			var opt = new Object();
+			opt.onload_callback = function ()
+			{
+				if (typeof (url) != 'undefined')
+				{
+					window.location = url;
+				}
+			}
+			var conv_handler = window['google_trackConversion'];
+			if (typeof (conv_handler) == 'function')
+			{
+				conv_handler(opt);
+			}
+		}
+		/* ]]> */
+	</script>
+	<script type="text/javascript"
+		src="//www.googleadservices.com/pagead/conversion_async.js">
+	</script>
+	<script type="text/javascript"> /* <![CDATA[ */ var google_conversion_id = 961214062; var google_custom_params = window.google_tag_params; var google_remarketing_only = true; /* ]]> */ </script>
+	<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"> </script>
+	<noscript>
+		<div style="display: inline;">
+			<img height="1" width="1" style="border-style: none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/961214062/?value=0&amp;guid=ON&amp;script=0" />
+		</div>
+	</noscript>
+</body>
+</html>

@@ -1,0 +1,11 @@
+unstructured[pdf]
+langchain
+langchain-community
+qdrant-client
+streamlit
+ollama
+pypdf
+pdf2image
+pillow
+numpy
+sentence-transformers
